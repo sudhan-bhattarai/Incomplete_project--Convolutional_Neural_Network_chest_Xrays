@@ -8,4 +8,7 @@ Second, to combine the image input with other numeric inputs to quantify the pro
 That is,
 1. Convolutional neural network (CNN) is to classify images based on images only. (xrays.py)
 2. Deep neural network (DNN) + CNN together to classify the images with better precision. (xraysANDnumeric.py)
-3. DNN + DNN with linear distinctive and augumented output to locate a specific prognosis period projection of a patient. (Ongoing)
+3. DNN + DNN with linear distinctive and augmented output to locate a specific prognosis period projection of a patient. (Ongoing)
+
+Reference:
+Xiaosong Wang, Yifan Peng, Le Lu, Zhiyong Lu, MohammadhadiBagheri, Ronald M. Summers.ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases, IEEE CVPR, pp. 3462-3471,2017
