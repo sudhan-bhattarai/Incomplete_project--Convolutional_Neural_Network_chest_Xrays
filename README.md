@@ -1,4 +1,4 @@
-# chest_x-ray_disease_classification
+# chest_x-ray_disease_classification (Ongoing Project)
 
 This project is about utilizing real life images to draw useful insights.
 I found a dataset of Xray images for the patients with Chest diseases (reference at the bottom).
